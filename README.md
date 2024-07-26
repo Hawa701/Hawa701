@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Personal Projects**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Next.js and typescript**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **UI/UX, React, Node.js... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The "404 Not Found" error message was originally a room number where lost web developers would gather to cry over missing files.**
 
  </div>
  
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a href="https://Hawa701.github.io" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,cs,cpp,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,mui,nextjs,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postman,vscode,github,cs" /><br>
 </div>
 
 <br/>
