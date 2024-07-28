@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **Personal Projects**
  
- 🌱 I’m currently learning **Next.js and typescript**
+ 🌱 I’m currently learning **Next.js, typescript, PostgreSQL and Prisma**
 
 💬 Ask me about **UI/UX, React, Node.js... or anything**
 
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,mui,nextjs,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postman,vscode,github,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,cs,dotnet,bootstrap,mui,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,sequelize,prisma,postman,vscode,visualstudio" /><br>
 </div>
 
 <br/>
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Contact Me ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,cpp" />
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
 </div>
 
 <br/>
