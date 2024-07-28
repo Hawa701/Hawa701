@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hawariaw+Paulos!;" />
 </h1>
 
-<h3 align="center">A passionate web developer from Ethiopia</h3>
+<h2 align="center">A passionate web developer from Ethiopia</h2>
 
 <br/>
 
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 <hr/>
  
-<h2 align="center">⚒️ Contact Me ⚒️</h2>
+<h2 align="center">📫 Contact Me 📫</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
