@@ -79,13 +79,4 @@ Here are some ideas to get you started:
   <br/>
   <img width=350 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hawa701&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<hr/>
  
-<h2 align="center">📫 Contact Me 📫</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
-</div>
-
-<br/>
