@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **Personal Projects**
+ 🔭 I’m currently working on **Freelance and Personal projects**
  
- 🌱 I’m currently learning **Next.js, typescript, PostgreSQL and Prisma**
+ 🌱 I’m currently learning **Python, DSA and LeetCode**
 
-💬 Ask me about **UI/UX, React, Node.js... or anything**
+💬 Ask me about **UI/UX, Next.js... or anything related to front-end development**
 
-⚡ Fun fact **The "404 Not Found" error message was originally a room number where lost web developers would gather to cry over missing files.**
+<!--⚡ Fun fact **The "404 Not Found" error message was originally a room number where lost web developers would gather to cry over missing files.** -->
 
  </div>
  
