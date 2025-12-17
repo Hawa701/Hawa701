@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,tailwind,mui,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,php,sequelize,postman,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,react,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,mysql,prisma,postman,vscode" /><br>
 </div>
 
 <br/>
