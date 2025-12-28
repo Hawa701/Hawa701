@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **Freelance and Personal projects**
  
- 🌱 I’m currently learning **Python, DSA and LeetCode**
+ 🌱 I’m currently learning **NextJS and Fullstack Development**
 
 💬 Ask me about **UI/UX, Next.js... or anything related to front-end development**
 
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,react,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=express,nodejs,mysql,prisma,postman,vscode" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,figma,tailwind" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,prisma,drizzle,postgresql,mysql,postman,vscode" /><br>
 </div>
 
 <br/>
