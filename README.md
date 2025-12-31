@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,figma,tailwind" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,prisma,drizzle,postgresql,mysql,postman,vscode" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth,express,nodejs,prisma,drizzle,postgresql,mysql,postman" /><br>
 </div>
 
 <br/>
