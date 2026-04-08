@@ -29,9 +29,9 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **Freelance and Personal projects**
  
- 🌱 I’m currently learning **NextJS and Fullstack Development**
+ 🌱 I’m currently learning **React Native and DevOps**
 
-💬 Ask me about **UI/UX, Next.js... or anything related to front-end development**
+💬 Ask me about **UI/UX, Next.js... or anything related to web development**
 
 <!--⚡ Fun fact **The "404 Not Found" error message was originally a room number where lost web developers would gather to cry over missing files.** -->
 
